@@ -1,0 +1,210 @@
+
+body {
+    position: relative;
+    width: 575px;
+    height: 385px;
+    zoom: 150%;
+    background: #1B244A;
+    }
+    #container {
+      
+        display: flex;
+        justify-content: space-around;
+        line-height: 0px;
+        padding: 0px;
+    }
+    #home{
+        font-size: 50px;
+        color: whitesmoke;
+  
+        
+    }
+    
+    #guest{
+        font-size: 50px;
+        color: white;
+        margin-bottom: 2px;
+    }
+    
+    #text-team1{
+        font-size:150px;
+        /* margin-top:5px;
+        margin-bottom: 5px;
+        padding-top: 5%;
+        padding-right: 25px;
+        padding-left: 25px;
+         */
+         /* text-align: center; */
+         margin: 0%;
+         padding-left: 50px;
+         padding-right: 50px;
+
+        border-radius: 5px;
+        color:darkred;
+        font-family: 'cursed-timer-ulil-regular', sans-serif;
+        background-color:black;
+    }
+    
+    #text-team2{
+         font-size:150px;
+       margin: 0%;
+         padding-left: 50px;
+         padding-right: 50px;
+
+        border-radius: 5px;
+        color:darkred;
+        font-family: 'cursed-timer-ulil-regular', sans-serif;
+        background-color:black;
+    }
+    #score-container{
+        display: flex;
+        justify-content: space-around;
+        line-height: 135px;
+        
+    }
+    
+    #increment_container_1{
+            display:flex;
+            justify-content:space-between;
+            margin-left: 3%;
+            width: 22%;
+            height: 20%;
+            margin-top: 1.5%;
+            margin-left:1.5%;
+        text-align: center;
+        font-family:cursive;
+        font-size:25px;
+    
+        
+    
+    }
+    
+    #increment_container_2{
+            display:flex;
+            justify-content:space-between;
+            margin-left: 3%;
+            width: 22%;
+            height: 20%;
+            margin-top: 1.5%;
+            margin-left:1.5%;
+        text-align: center;
+        font-family:cursive;
+        font-size:25px;
+    
+        
+    
+    }
+    
+    #increment{
+                display: flex;
+        justify-content:space-around;
+    }
+    
+    
+    
+    #one_div_one{
+    
+    
+    
+       margin: 2px;
+       padding: 0.5px;
+        box-sizing: border-box;
+    color: #9AABD8;
+
+     width: 10000%; 
+    line-height: 0%;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+        
+    }
+    
+    #two_div_one{
+        /* background-color:wheat; */
+    
+       margin: 2px;
+       padding: 0.5px;
+        box-sizing: border-box;
+        color: #9AABD8;
+
+     width: 10000%; 
+    line-height: 0%;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;    
+    }
+    
+    #three_div_one{
+        /* background-color:wheat; */
+    
+       margin: 2px;
+       padding: 0.5px;
+        box-sizing: border-box;
+        color: #9AABD8;
+
+     width: 10000%; 
+    line-height: 0%;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;    
+    }
+    
+    #one_div_two{
+        /* background-color:wheat; */
+        color: #9AABD8;
+
+       margin: 2px;
+       padding: 0.5px;
+        box-sizing: border-box;
+    color: #9AABD8;
+     width: 10000%; 
+    line-height: 0%;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;    
+    }
+
+    #two_div_two{
+        /* background-color:wheat; */
+        color: #9AABD8;
+
+       margin: 2px;
+       padding: 0.5px;
+        box-sizing: border-box;
+    
+     width: 10000%; 
+    line-height: 0%;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;    
+    }
+    
+    #three_div_two{
+        /* background-color:wheat; */
+        color: #9AABD8;
+
+       margin: 2px;
+       padding: 0.5px;
+        box-sizing: border-box;
+    
+     width: 10000%; 
+    line-height: 0%;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;    
+    }
+    #row1{
+        display: flex;
+        align-content: flex-end;
+    }
+    
+    #row2{
+        display:flex;
+    }
+
+    #game_over{
+        font-size: 40px;
+        color: aqua;
+        margin-left: 25%;
+        margin-top: 0%;
+    }
+    #game_won{
+        font-size: 40px;
+        color: aqua;
+        margin-left: 35%;
+        margin-top: 0%;
+    }
